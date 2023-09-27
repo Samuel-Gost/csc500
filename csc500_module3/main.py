@@ -11,7 +11,6 @@ while entered_cost != 0:
     plateCostEntered.append(entered_cost)
 
 plateCostEntered.pop()
-
 print('Here is the value of each plate with taxes and tips included...')
 
 for x in plateCostEntered:
