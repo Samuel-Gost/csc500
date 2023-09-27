@@ -21,4 +21,3 @@ for x in plateCostEntered:
 
 print('Total for all plates value after all taxes and tips included is', plateValueTotal)
 
-
